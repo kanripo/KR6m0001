@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 中論
+#+DATE: 2015-08-30 20:52:53.757646
+#+PROPERTY: JUAN 0
